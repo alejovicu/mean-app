@@ -11,6 +11,10 @@
   "dependencies": {
     "connect": "^3.6.5",
     "express": "latest",
-    "grunt": "latest"
+    "grunt": "latest",
+    "morgan": "latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
   }
 }
