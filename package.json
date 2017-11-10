@@ -14,6 +14,7 @@
     "connect": "^3.6.5",
     "ejs": "^2.5.7",
     "express": "latest",
+    "express-session": "^1.15.6",
     "grunt": "latest",
     "method-override": "latest",
     "morgan": "latest"
