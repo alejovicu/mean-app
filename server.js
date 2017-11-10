@@ -1,4 +1,4 @@
-process.env.NODE_ENV = process.env.NODE_ENV || 'development'
+process.env.NODE_ENV = process.env.NODE_ENV || 'development' // P68 pa' setear la variable de entorno en dev si no está asignada
 
 var express = require('./config/express')
 

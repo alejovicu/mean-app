@@ -9,12 +9,13 @@
   "author": "alejovicu",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "latest",
     "connect": "^3.6.5",
+    "ejs": "^2.5.7",
     "express": "latest",
     "grunt": "latest",
-    "morgan": "latest",
-    "compression": "latest",
-    "body-parser": "latest",
-    "method-override": "latest"
+    "method-override": "latest",
+    "morgan": "latest"
   }
 }
