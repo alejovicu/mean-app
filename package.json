@@ -17,6 +17,7 @@
     "express-session": "^1.15.6",
     "grunt": "latest",
     "method-override": "latest",
-    "morgan": "latest"
+    "morgan": "latest",
+    "mongoose": "latest"
   }
 }

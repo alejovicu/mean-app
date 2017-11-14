@@ -1,4 +1,5 @@
 module.exports = {
-// Development configuration options
+  // Development configuration options
+  db: 'mongodb://localhost/app-example',
   sessionSecret: 'developmentSessionSecret'
 }
